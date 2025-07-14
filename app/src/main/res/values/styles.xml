@@ -1,0 +1,9 @@
+<resources>
+    <style name="DividerLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#3A3A3A</item>
+        <item name='android:layout_marginRight'>22dp</item>
+        <item name='android:layout_marginLeft'>22dp</item>'
+    </style>
+</resources>

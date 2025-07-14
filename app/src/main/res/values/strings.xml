@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WERA IoT</string>
+    <string name="settings">Pengaturan</string>
+    <string name="greeting">Selamat Siang, “Username” Kendalikan Perangkat WERA melalui Aplikasi ini</string>
+    <string name="version">Versi</string>
+    <string name="pengaturan_notifikasi">Pengaturan Notifikasi</string>
+    <string name="language">Bahasa</string>
+    <string name="deskripsi_pengaturan_notifikasi">Untuk menerima semua notifikasi, silahkan hidupkan pengaturan pada perangkat dan pengaturan ini</string>
+    <string name="lang_id">Indonesia</string>
+    <string name="lang_en">Inggris</string>
+    <string name="Pilih_Tema">Pilih Tema</string>
+    <string name="Privacy_Policy">Kebijakan Privasi</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="Pilih_Bahasa">Pilih Bahasa</string>
+    <string name="isi_bahasa">Indonesia</string>
+    <string name="petunjuk">Silahkan scan QR code pada perangkat yang ingin anda tambahkan</string>
+    <string name="add_device">Tambah Perangkat</string>
+    <string name="Pengaturan_Privasi">Pengaturan Privasi</string>
+    <string name="isi_pengaturan_privasi">Pihak WERA akan mengumpulkan data yang berkaitan dengan penggunaan aplikasi untuk tujuan peningkatan dan pengembangan aplikasi dengan mencentang box di samping. Jika kamu tidak setuju, kamu dapat menghapus centang pada kotak tersebut</string>
+    <string name="theme">Tema</string>
+    <string name="dark">Gelap</string>
+    <string name="light">Terang</string>
+    <string name="auto">Otomatis</string>
+</resources>

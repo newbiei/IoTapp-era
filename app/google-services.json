@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677224142597",
+    "project_id": "wera-iot",
+    "storage_bucket": "wera-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677224142597:android:747cde98da56b943b8c96c",
+        "android_client_info": {
+          "package_name": "com.wera.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9VhO3ri8K9BZXnZNacjPL8gw5waB9Yv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:background="#CEA7A7">
+
+    <TextView
+        android:id="@+id/tvDeviceId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID Perangkat"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pastikan ID Perangkat sesuai dengan yang ada di kemasan"
+        android:textColor="#444"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp" />
+
+    <EditText
+        android:id="@+id/editDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan Nama Perangkat"
+        android:inputType="textCapWords"
+        android:layout_marginTop="16dp"
+        android:drawableEnd="@drawable/ic_clear"
+        android:padding="8dp"
+        android:background="@drawable/edittext_bg"
+        android:textColor="@android:color/black" />
+</LinearLayout>

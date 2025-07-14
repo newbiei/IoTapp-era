@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?colorContainer"
+    android:layout_marginBottom="8dp"
+    android:padding="12dp"
+    android:elevation="2dp"
+    android:clipToPadding="false">
+
+    <!-- Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/imgNotifType"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_alert"
+            android:layout_marginEnd="8dp" />
+
+        <TextView
+            android:id="@+id/tvNotifType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ALERT"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <!-- Isi Pesan -->
+    <TextView
+        android:id="@+id/tvNotifMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(WERA1) baterai lemah! Harap isi daya"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginTop="6dp"/>
+</LinearLayout>

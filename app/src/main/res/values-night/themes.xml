@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WERAIoT" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Dark Theme Colors -->
+        <item name="colorContainer">#D9D9D9</item>
+        <item name="colorPrimary">#FFD600</item>
+        <item name="colorPrimaryVariant">#F9A825</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">#2A2828</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="colorControlNormal">#B0B0B0</item>
+        <item name="cardViewStyle">@style/CardView.Dark</item>
+    </style>
+</resources>
